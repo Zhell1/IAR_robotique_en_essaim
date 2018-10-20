@@ -1,0 +1,68 @@
+# =-=-=-=-=-=-=-=-=-=-=
+# PROPERTIES FILE DUMP 
+# =-=-=-=-=-=-=-=-=-=-=
+#
+# =-= Roborobo^3 
+# =-= Official version tag    : 20180704
+# =-= Current build name      : Kyoto build (roborobo^3 w/ SDL2)
+# =-= Compilation version tag : Oct 19 2018 - 08:50:19
+#
+# Loaded time stamp           : 20181019-12h15m33s286822us
+#
+# Original Properties file    : config/TMEaggregation.properties
+#
+
+
+ConfigurationLoaderObjectName=TMEaggregationConfigurationLoader
+SlowMotionMode=false
+gBackgroundImageFilename=data/env_circle1000_background.bmp
+gBatchMode=false
+gDisplayGroundCaption=false
+gDisplayMode=0
+gDisplaySensors=2
+gDisplayTail=false
+gEnvironmentImageFilename=data/env_circle1000_environment.bmp
+gFastDisplayModeSpeed=60
+gFootprintImageFilename=data/env_circle1000_footprints.bmp
+gFootprintImage_restoreOriginal=true
+gForegroundImageFilename=data/env_circle1000_foreground.bmp
+gFramesPerSecond=60
+gInitialNumberOfRobots=200
+gInspectorAgent=false
+gInspectorAgentXStart=1
+gInspectorAgentYStart=1
+gInspectorCursorHorizontalSpeed=1
+gInspectorCursorMaxSpeedOnXaxis=5
+gInspectorCursorMaxSpeedOnYaxis=10
+gInspectorCursorVerticalSpeed=1
+gInspectorMode=false
+gLocationFinderMaxNbOfTrials=100
+gLocomotionMode=0
+gLogCommentText=(under-development)
+gLogDirectoryname=logs/
+gLogFilename=datalog_20181019-12h15m33s286822us_16082.txt
+gMaxIt=-1
+gMaxRotationalSpeed=30
+gMaxTranslationalDeltaValue=2
+gMaxTranslationalSpeed=2
+gMonitorRobot=false
+gNbOfLandmarks=0
+gNbOfPhysicalObjects=0
+gNiceRendering=true
+gPauseMode=false
+gPhysicalObjectIndexStartOffset=1
+gRandomSeed=789192015
+gRobotDisplayFocus=false
+gRobotIndexFocus=0
+gRobotIndexStartOffset=1048576
+gRobotLEDdisplay=false
+gRobotMaskImageFilename=data/minirobot-mask-edgesOnly.bmp
+gRobotSpecsImageFilename=data/minirobot-specs-12sensors.bmp
+gScreenHeight=1000
+gScreenWidth=1000
+gSensorRange=16
+gSynchronization=true
+gTrajectoryMonitor=false
+gUserCommandMode=false
+gVerbose=true
+gVideoRecording=false

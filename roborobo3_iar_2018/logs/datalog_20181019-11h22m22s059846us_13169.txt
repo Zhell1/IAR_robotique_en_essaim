@@ -1,0 +1,75 @@
+# =-=-=-=-=-=-=-=-=-=-=
+# LOG DATA 
+# =-=-=-=-=-=-=-=-=-=-=
+#
+# =-= Roborobo^3 
+# =-= Official version tag    : 20180704
+# =-= Current build name      : Kyoto build (roborobo^3 w/ SDL2)
+# =-= Compilation version tag : Oct 19 2018 - 08:50:19
+#
+# Loaded time stamp           : 20181019-11h22m22s059846us
+# process ID                  : 13169
+#
+# random seed             : 1892929391
+1,pop,alive,800
+399,pop,alive,800
+401,pop,alive,800
+799,pop,alive,800
+801,pop,alive,800
+1199,pop,alive,800
+1201,pop,alive,800
+1599,pop,alive,800
+1601,pop,alive,800
+1999,pop,alive,800
+2001,pop,alive,800
+2399,pop,alive,800
+2401,pop,alive,800
+2799,pop,alive,800
+2801,pop,alive,800
+3199,pop,alive,800
+3201,pop,alive,800
+3599,pop,alive,800
+3601,pop,alive,800
+3999,pop,alive,800
+4001,pop,alive,800
+4399,pop,alive,800
+4401,pop,alive,800
+4799,pop,alive,800
+4801,pop,alive,800
+5199,pop,alive,800
+5201,pop,alive,800
+5599,pop,alive,800
+5601,pop,alive,800
+5999,pop,alive,800
+6001,pop,alive,800
+6399,pop,alive,800
+6401,pop,alive,800
+6799,pop,alive,800
+6801,pop,alive,800
+7199,pop,alive,800
+7201,pop,alive,800
+7599,pop,alive,800
+7601,pop,alive,800
+7999,pop,alive,800
+8001,pop,alive,800
+8399,pop,alive,800
+8401,pop,alive,800
+8799,pop,alive,800
+8801,pop,alive,800
+9199,pop,alive,800
+9201,pop,alive,800
+9599,pop,alive,800
+9601,pop,alive,800
+9999,pop,alive,800
+10001,pop,alive,800
+10399,pop,alive,800
+10401,pop,alive,800
+10799,pop,alive,800
+10801,pop,alive,800
+11199,pop,alive,800
+11201,pop,alive,800
+11599,pop,alive,800
+11601,pop,alive,800
+# Started: 20181019-11h22m22s059846us
+# Stopped: 20181019-11h25m05s434153us
+# Elapsed: 2 minutes(s), 43 seconds.
